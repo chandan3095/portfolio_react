@@ -3,7 +3,7 @@ const data = [
     id: 1,
     title: "Web Development",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostru libero enim nisi aliquam consectetur expedita magni eius ex corrupti animi Ad nam pariatur assumenda quae mollitia libero repellat explicabo maiores",
+      "Web development refers to the process of creating, building, and maintaining websites or web applications. It involves various technologies, frameworks, and tools that help develop user-friendly, functional, and interactive web experiences.",
 
     buttonText: "Go",
   },
@@ -11,7 +11,7 @@ const data = [
     id: 2,
     title: "App Development",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostru libero enim nisi aliquam consectetur expedita magni eius ex corrupti animi Ad nam pariatur assumenda quae mollitia libero repellat explicabo maiores",
+      "App development is the process of creating software applications that run on mobile devices (Android, iOS) or web platforms. It involves several stages, including planning, designing, coding, testing, and deployment.",
 
     buttonText: "Go",
   },
@@ -19,7 +19,7 @@ const data = [
     id: 3,
     title: "Figma Wireframing",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostru libero enim nisi aliquam consectetur expedita magni eius ex corrupti animi Ad nam pariatur assumenda quae mollitia libero repellat explicabo maiores",
+      "Wireframing in Figma is a crucial step in UI/UX design that helps visualize the structure and functionality of an application before moving to high-fidelity designs. Figma provides a powerful, collaborative platform to create, share, and refine wireframes efficiently.",
 
     buttonText: "Go",
   },
@@ -27,7 +27,7 @@ const data = [
     id: 4,
     title: "UI/UX Design",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostru libero enim nisi aliquam consectetur expedita magni eius ex corrupti animi Ad nam pariatur assumenda quae mollitia libero repellat explicabo maiores",
+      "UI (User Interface) Design and UX (User Experience) Design are closely related but serve different purposes in creating digital products like websites, apps, and software.",
 
     buttonText: "Go",
   },

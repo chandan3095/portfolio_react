@@ -41,7 +41,12 @@ const ProjectCard = ({ project, index }) => {
               transition={{ duration: 0.3 }}
             >
               <p className="description">{project.description}</p>
-              <p className="languages">Technologies: {project.languages}</p>
+              <p className="languages">
+                Technologies: {project.languages.join(", ")}
+              </p>
+              <a href={project.link} className="demo-btn" target="_blank">
+                Live Demo
+              </a>
             </motion.div>
           )}
         </AnimatePresence>
